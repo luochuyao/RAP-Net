@@ -20,8 +20,12 @@ You might want to change the parameter and setting, you can change the details o
 
 The preprocess method and data root path can be modified in the data/data_iterator.py file.
 
+# Prediction samples
+5 frames are predicted given the last 10 frames.
 
+![Prediction vislazation](https://github.com/luochuyao/RAP-Net/blob/master/utils/res.pdf)
 
+Besides, we will offer trained models including RAP-Net, PredRNN and some models in the ablation study.
 
 
 
