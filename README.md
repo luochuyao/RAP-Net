@@ -25,7 +25,7 @@ The preprocess method and data root path can be modified in the data/data_iterat
 
 ![Prediction vislazation](https://github.com/luochuyao/RAP-Net/blob/master/utils/res.pdf)
 
-Besides, the trained models including RAP-Net, PredRNN and all models in the ablation study can be found in [here] (https://drive.google.com/drive/folders/1-Cbm-E1beUXaw_YxzBSxcDv1uGxLXmFT?usp=sharing).
+Besides, the trained models including RAP-Net, PredRNN and all models in the ablation study can be found in [here](https://drive.google.com/drive/folders/1-Cbm-E1beUXaw_YxzBSxcDv1uGxLXmFT?usp=sharing)
 
 
 
