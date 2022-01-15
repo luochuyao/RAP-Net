@@ -20,6 +20,8 @@ You might want to change the parameter and setting, you can change the details o
 
 The preprocess method and data root path can be modified in the data/data_iterator.py file.
 
+These trianed models are available at: [trained model](https://drive.google.com/drive/folders/1-Cbm-E1beUXaw_YxzBSxcDv1uGxLXmFT?usp=sharing) 
+
 # Prediction samples
 5 frames are predicted given the last 10 frames.
 
